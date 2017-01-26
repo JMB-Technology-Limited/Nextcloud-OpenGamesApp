@@ -65,5 +65,7 @@ In terms of code/app quality:
   *  It doesn't meet all code standards - eg spaces rather than tabs!
   *  It uses a database for storage; that might be a bit over the top but I wanted to see how databases worked. It doesn't
      use the database in the most effective/productive manner.
+  *  There is currently a highlight over a row of the board applied in CSS - sort out where that is coming from. The
+     CSS/Table HTML for the board could be cleaned up.
 
 And finally, it's called OpenGames as maybe we could add more games later :-)
