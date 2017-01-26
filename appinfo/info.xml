@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<info>
+	<id>opengames</id>
+	<name>OpenGames</name>
+	<description><![CDATA[Games]]></description>
+
+    <namespace>OpenGames</namespace>
+	<licence>AGPL</licence>
+	<author>James Baster</author>
+	<version>0.0.5</version>
+
+
+	<website>https://github.com/JMB-Technology-Limited/Nextcloud-OpenGamesApp</website>
+	<bugs>https://github.com/JMB-Technology-Limited/Nextcloud-OpenGamesApp/issues</bugs>
+	<repository type="git">https://github.com/JMB-Technology-Limited/Nextcloud-OpenGamesApp.git</repository>
+
+	<dependencies>
+		<nextcloud min-version="11" max-version="11" />
+	</dependencies>
+</info>

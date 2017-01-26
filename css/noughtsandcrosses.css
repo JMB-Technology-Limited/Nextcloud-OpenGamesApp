@@ -1,0 +1,28 @@
+
+.NoughtsAndCrossesPage {
+	text-align: center;
+}
+.NoughtsAndCrossesBoard {
+	margin: 0 auto;
+}
+.NoughtsAndCrossesHeader {
+	font-size: 18pt;
+	font-weight: bold;
+	margin: 20px 0;
+	line-height: 1.2;
+}
+.NoughtsAndCrossesBoard .NoughtsAndCrossesBoardCell {
+    border: 1px solid black;
+}
+.NoughtsAndCrossesBoard .NoughtsAndCrossesBoardCell a, .NoughtsAndCrossesBoard .NoughtsAndCrossesBoardCell .NoughtsAndCrossesBoardContents {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+}
+
+.NoughtsAndCrossesPlayersHeader {
+	font-size: 14pt;
+	font-weight: bold;
+	margin: 20px 0;
+	line-height: 1.2;
+}
